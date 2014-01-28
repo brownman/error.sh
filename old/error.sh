@@ -174,3 +174,5 @@ echo
 #http://bashdb.sourceforge.net/bashdb.html#SEC_Contents
 #http://code.ohloh.net/project?pid=&ipid=305153
 #http://stackoverflow.com/questions/6928946/mysterious-lineno-in-bash-trap-err
+#https://github.com/sickill/asciinema.org
+#http://docs.python-guide.org/en/latest/dev/virtualenvs/
